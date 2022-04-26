@@ -7,7 +7,6 @@ init python:
         tilesets = {}
         
         # Tools
-        cauldron = None
         
         
         @staticmethod
